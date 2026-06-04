@@ -30,3 +30,5 @@ The project generates multiple visualizations such as bar charts, pie charts, hi
 Conclusion
 
 This project helps in understanding patient health risks and provides insights using data analysis techniques.
+<img width="854" height="481" alt="image" src="https://github.com/user-attachments/assets/21b5ad02-d782-417c-b147-e360d6d4ca64" />
+
