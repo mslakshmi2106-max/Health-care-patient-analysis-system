@@ -33,5 +33,6 @@ This project helps in understanding patient health risks and provides insights u
 <img width="854" height="481" alt="image" src="https://github.com/user-attachments/assets/21b5ad02-d782-417c-b147-e360d6d4ca64" />
 <img width="720" height="407" alt="image" src="https://github.com/user-attachments/assets/dbfc27f7-a781-47cd-8b02-c57badf3568d" />
 <img width="861" height="459" alt="image" src="https://github.com/user-attachments/assets/23d260a4-831a-4fb7-9a32-3f8e80f92a40" />
+<img width="822" height="449" alt="image" src="https://github.com/user-attachments/assets/00c84bbc-9e0f-4041-8668-0d74415edb1e" />
 
 
